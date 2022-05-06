@@ -1,3 +1,4 @@
+Note: This repository was cloned for skeleton code for the purpose of learning iOS development
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Auto Layout 
